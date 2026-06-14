@@ -156,15 +156,13 @@ Generated Answer
 
 ---
 
+
 ## 📸 Demo
 
-Add screenshots or a demo GIF of your chatbot here.
+### Medical Chatbot UI
 
-Example:
-
-```
 ![Medical Chatbot UI](image.png)
-```
+
 
 ---
 
