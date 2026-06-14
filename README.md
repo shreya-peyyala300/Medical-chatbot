@@ -1,12 +1,3 @@
-# Medical-chatbot
-
-$ git clone https://github.com/shreya-peyyala300/Medical-chatbot.git
-conda create -n medibot python=3.10 -y
-conda activate medibot
-sh template.sh
-pip install -r requirements.txt
-
-
 # 🩺 Medical Chatbot using Generative AI
 
 A smart AI-powered Medical Chatbot that allows users to ask health-related questions and receive relevant responses based on medical documents using Retrieval-Augmented Generation (RAG).
@@ -172,7 +163,7 @@ Add screenshots or a demo GIF of your chatbot here.
 Example:
 
 ```
-images/chatbot_demo.png
+![alt text](image.png)
 ```
 
 ---
