@@ -163,7 +163,7 @@ Add screenshots or a demo GIF of your chatbot here.
 Example:
 
 ```
-![alt text](image.png)
+![Medical Chatbot UI](image.png)
 ```
 
 ---
